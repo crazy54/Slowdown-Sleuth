@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/SpikeSleuth-trans.png" alt="SpikeSleuth Logo" width="520" />
+  <img src="SpikeSleuth-trans.png" alt="SpikeSleuth Logo" width="520" />
 </p>
 
 <p align="center">
