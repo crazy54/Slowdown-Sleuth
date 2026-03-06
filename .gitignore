@@ -1,0 +1,26 @@
+# Generated investigator outputs
+*.csv
+*.html
+report.md
+warnings.json
+superuser_draft.md
+superuser_draft.txt
+genai_review.md
+genai_review_raw.txt
+
+# Run roots and local temp artifacts
+tmp/
+_tmp_runs/
+test-*/
+run-*/
+SpikeSleuth/
+
+# Secrets and local key caches
+.secrets/
+*.secure.txt
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
